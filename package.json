@@ -6,7 +6,7 @@
     "@types/puppeteer": "^2.0.0",
     "chrome-aws-lambda": "^2.0.2",
     "puppeteer": "^2.0.0",
-    "rendertron": "^2.0.1"
+    "rendertron": "^3.0.0"
   },
   "devDependencies": {
     "@now/node": "^1.3.0"
